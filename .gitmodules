@@ -1,0 +1,3 @@
+[submodule "app-bugzilla"]
+	path = app-bugzilla
+	url = https://github.com/opensourceways/app-bugzilla.git
